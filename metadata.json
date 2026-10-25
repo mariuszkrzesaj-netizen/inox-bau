@@ -1,0 +1,6 @@
+{
+  "name": "FoodTrailer Studio - Generator Zabudowy Przyczep Gastronomicznych",
+  "description": "Profesjonalny konfigurator 3D i 2D zabudowy przyczep gastronomicznych i food trucków. Bilans mocy, Sanepid/HACCP, kontrola DMC i wycena techniczna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
