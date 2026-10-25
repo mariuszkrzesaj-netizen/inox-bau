@@ -1,4 +1,5 @@
 # GASTRO inox BAU – Generator Zabudowy Przyczep Gastronomicznych & Food Trucków
+pomysł,wdrożenie,własność kodu M.Krzesaj 2026
 
 ![GASTRO inox BAU](public/assets/aistudio/images__2__6454eab5.jpeg)
 
